@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Aug 29 22:52:50 CST 2013
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=tongji_fat_scale.jar
+manifest.mergeall=true
+manifest.mainclass=ui.MainFrame
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<jar|substance.jar>
+includes=
